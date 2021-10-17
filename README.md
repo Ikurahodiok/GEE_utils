@@ -9,7 +9,7 @@ Technical Challenge calculating NDVI. Mapping each pixel in an AOI in a time ser
 
 Working with: numpy, raterio, sci-kit learn, .tifs
 
-### Thermal Imagine in Methane
+### Thermal Imaging of Methane Plumes
 Challenge in organising data in a dir into nice neat dictionary. Identify min/max through a time series. Do some zooming in/out of AOI
 
 Working with: numpy, .tifs
